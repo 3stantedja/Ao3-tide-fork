@@ -11,7 +11,7 @@ trim_trailing_whitespace = true
 
 [*.css]
 indent_size = 2
-tab_width = 
+tab_width = 2
 
 [.gitignore]
 trim_trailing_whitespace = false
